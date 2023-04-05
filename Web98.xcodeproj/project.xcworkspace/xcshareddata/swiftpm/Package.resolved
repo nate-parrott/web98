@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "openai-streaming-completions-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nate-parrott/openai-streaming-completions-swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dc294e47cb6dab5113cdb9c6e5b7efdd7f56ca96"
+      }
+    }
+  ],
+  "version" : 2
+}
