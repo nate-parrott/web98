@@ -37,7 +37,7 @@ a cool emergent property of this is that you can ask for simple utilities, like 
 # Installation
 
 You can either:
-1. Download the [Testflight](https://t.co/mxLwg0nKfZ)
+1. Download the [Testflight](https://t.co/mxLwg0nKfZ) expired
 2. Clone this repo and build it from Xcode
 
 Note that either way, you'll need to have an [OpenAI API key](https://platform.openai.com/overview).
